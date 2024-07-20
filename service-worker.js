@@ -1,4 +1,4 @@
-importScripts("precache-manifest.0da5108c3c1a6b636c62c8c54d051bd7.js");
+importScripts("precache-manifest.f9fa3522d7a2ae4b7be38b21c86315c4.js");
 
 // 设置相应缓存的名字的前缀和后缀
 workbox.core.setCacheNameDetails({
